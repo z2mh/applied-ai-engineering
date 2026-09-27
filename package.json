@@ -1,0 +1,14 @@
+{
+  "name": "applied-ai-engineering",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Sanitized TypeScript patterns for document chunking and hybrid retrieval ranking.",
+  "scripts": {
+    "test": "node --experimental-strip-types --test tests/*.test.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "license": "MIT"
+}
